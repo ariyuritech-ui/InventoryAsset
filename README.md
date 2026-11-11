@@ -1,0 +1,2 @@
+# InventoryAsset
+Management_Inventory_Aset
